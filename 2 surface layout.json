@@ -1,0 +1,13 @@
+{
+    "total_power": 0,
+    "production": 0,
+    "surfaces": [
+        {
+            "name": "surface_0",
+            "power": 5000,
+            "orientation": 0,
+            "slope": 35,
+            "shading": 0.0
+        }
+    ]
+}

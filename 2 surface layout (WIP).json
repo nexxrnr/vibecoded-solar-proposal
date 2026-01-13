@@ -1,0 +1,17 @@
+{ "surfaces": [
+    {   
+        "name": "surface_1",
+        "number_of_panels": 13,
+        "orientation": 0,
+        "slope": 35,
+        "shading": 0.0
+    },
+    {
+        "name": "surface_2",
+        "number_of_panels": 7,
+        "orientation": 90,
+        "slope": 35,
+        "shading": 10.0
+    }
+ ]
+}

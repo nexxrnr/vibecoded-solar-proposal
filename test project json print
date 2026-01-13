@@ -1,0 +1,1494 @@
+{
+  "PROJECT_ID": 12449748,
+  "PROJECT_NAME": "TEST DO NOT DELETE_BE4436",
+  "STATUS": "CANCELLED",
+  "PROJECT_DETAILS": "CHO PPACBM\n;Roof Pitch Over 32\u00b0;Tilt Up;Danville Adder-Earthquake Switch;Load Controller;Shift Tilt;2 SE Energy Bank (No Bkup)    CustomerPortal;Roof Pitch Over 32\u00b0;Danville Adder-Earthquake Switch;Attic Run Required by AHJ;Shift Tilt;Roof Pitch Over 32\u00b0;Danville Adder-Earthquake Switch;Attic Run Required by AHJ;Shift Tilt;Remove Existing Solar System;Remove Existing Solar System;Remove Existing Solar System;Remove Existing Solar System;Remove Existing Solar System;Remove Existing Solar System;Remove Existing Solar System;Remove Existing Solar System;Remove Existing Solar System;Roof Pitch Over 32\u00b0;1 Franklin Batt (Partial Backup)",
+  "STARTED_DATE": "2023-09-25 00:00:00",
+  "COMPLETED_DATE": null,
+  "OPPORTUNITY_ID": null,
+  "CATEGORY_ID": 6798425,
+  "PIPELINE_ID": 898474,
+  "STAGE_ID": 3667670,
+  "IMAGE_URL": null,
+  "OWNER_USER_ID": 1918151,
+  "DATE_CREATED_UTC": "2021-02-25 16:27:45",
+  "DATE_UPDATED_UTC": "2023-12-05 15:42:50",
+  "LAST_ACTIVITY_DATE_UTC": "2023-09-25 23:19:12",
+  "NEXT_ACTIVITY_DATE_UTC": null,
+  "CREATED_USER_ID": 1918151,
+  "RESPONSIBLE_USER_ID": 1918151,
+  "CUSTOMFIELDS": [
+    {
+      "FIELD_NAME": "Abandoned_Counter__c",
+      "FIELD_VALUE": 0.0,
+      "CUSTOM_FIELD_ID": "Abandoned_Counter__c"
+    },
+    {
+      "FIELD_NAME": "Additional_Placard_Required__c",
+      "FIELD_VALUE": "2023-06-19 00:00:00",
+      "CUSTOM_FIELD_ID": "Additional_Placard_Required__c"
+    },
+    {
+      "FIELD_NAME": "Additional_Placards_Applied_1__c",
+      "FIELD_VALUE": "2023-09-07 00:00:00",
+      "CUSTOM_FIELD_ID": "Additional_Placards_Applied_1__c"
+    },
+    {
+      "FIELD_NAME": "Additional_SOW_Approved__c",
+      "FIELD_VALUE": "2023-11-28 00:00:00",
+      "CUSTOM_FIELD_ID": "Additional_SOW_Approved__c"
+    },
+    {
+      "FIELD_NAME": "Additional_SOW_Sent__c",
+      "FIELD_VALUE": "2023-11-28 00:00:00",
+      "CUSTOM_FIELD_ID": "Additional_SOW_Sent__c"
+    },
+    {
+      "FIELD_NAME": "Additional_Survey_Complete__c",
+      "FIELD_VALUE": "2023-10-05 00:00:00",
+      "CUSTOM_FIELD_ID": "Additional_Survey_Complete__c"
+    },
+    {
+      "FIELD_NAME": "Additional_Survey_Details__c",
+      "FIELD_VALUE": 36431730,
+      "CUSTOM_FIELD_ID": "Additional_Survey_Details__c"
+    },
+    {
+      "FIELD_NAME": "Additional_Survey_Reason__c",
+      "FIELD_VALUE": "Reschedule- HO/Sales Requested;BE Missed Survey;HO Missed Survey;BE Missed Routing",
+      "CUSTOM_FIELD_ID": "Additional_Survey_Reason__c"
+    },
+    {
+      "FIELD_NAME": "Additional_Survey_Required_Date__c",
+      "FIELD_VALUE": "2023-08-02 00:00:00",
+      "CUSTOM_FIELD_ID": "Additional_Survey_Required_Date__c"
+    },
+    {
+      "FIELD_NAME": "AHJ__c",
+      "FIELD_VALUE": 10341999,
+      "CUSTOM_FIELD_ID": "AHJ__c"
+    },
+    {
+      "FIELD_NAME": "Annual_Kwh_Usage__c",
+      "FIELD_VALUE": 12340.0,
+      "CUSTOM_FIELD_ID": "Annual_Kwh_Usage__c"
+    },
+    {
+      "FIELD_NAME": "Approved_MPU_Cost__c",
+      "FIELD_VALUE": 9000.0,
+      "CUSTOM_FIELD_ID": "Approved_MPU_Cost__c"
+    },
+    {
+      "FIELD_NAME": "Approved_Roofer_to_Schedule__c",
+      "FIELD_VALUE": "2023-10-27 00:00:00",
+      "CUSTOM_FIELD_ID": "Approved_Roofer_to_Schedule__c"
+    },
+    {
+      "FIELD_NAME": "Aurora_Admin__c",
+      "FIELD_VALUE": 29637879,
+      "CUSTOM_FIELD_ID": "Aurora_Admin__c"
+    },
+    {
+      "FIELD_NAME": "Aurora_Complete_Date__c",
+      "FIELD_VALUE": "2021-08-19 04:00:00",
+      "CUSTOM_FIELD_ID": "Aurora_Complete_Date__c"
+    },
+    {
+      "FIELD_NAME": "Aurora_Notes__c",
+      "FIELD_VALUE": "2023-06-04T12:44:59Z - please verify that the CXA was resolved before proceeding. - DS\n------------------------\n2023-06-04T11:35:29Z - please verify that the CXA was resolved before proceeding. - DS\n------------------------\nwhat would be the optimal design ?",
+      "CUSTOM_FIELD_ID": "Aurora_Notes__c"
+    },
+    {
+      "FIELD_NAME": "Aurora_Performance_Guarantee_1__c",
+      "FIELD_VALUE": 5000.0,
+      "CUSTOM_FIELD_ID": "Aurora_Performance_Guarantee_1__c"
+    },
+    {
+      "FIELD_NAME": "Aurora_Results__c",
+      "FIELD_VALUE": "Production Met- Adjustments Made from Proposal",
+      "CUSTOM_FIELD_ID": "Aurora_Results__c"
+    },
+    {
+      "FIELD_NAME": "Aurora_Revision__c",
+      "FIELD_VALUE": "**2 Open Requests>>see both!\n1. Requestor: Jielyn Bugarin\n2022-12-27: Please request planset revision when complete\nNew Module Tier: Premium 360w+\n\nAdd Modules 14.0\nTotal Number of Panels: 54.0\n\nMaximize Production Efficiency\nElective Adders to Add:CURB Monitoring\nElective Adders to Remove:EV Charger + Install\n\n2. **2 Open Requests>>see both!\n1. Requestor: Jielyn Bugarin\n2022-12-27: Please request planset revision when complete\nNew Module Tier: Premium 360w+\n\nAdd Modules 16.0\nTotal Number of Panels: 56.0\n\nMaximize Production Efficiency\nElective Adders to Add:CURB Monitoring\nElective Adders to Remove:EV Charger + Install\n\n2. Requestor: Jielyn Bugarin\n2022-12-27: Please request planset revision when complete\nNew Module Tier: Premium 360w+\n\nAdd Modules 16.0\nTotal Number of Panels: 56.0\n\nMaximize Production Efficiency\nElective Adders to Add:CURB Monitoring\nElective Adders to Remove:EV Charger + Install",
+      "CUSTOM_FIELD_ID": "Aurora_Revision__c"
+    },
+    {
+      "FIELD_NAME": "Aurora_Revision_Completed__c",
+      "FIELD_VALUE": "2023-02-27 00:00:00",
+      "CUSTOM_FIELD_ID": "Aurora_Revision_Completed__c"
+    },
+    {
+      "FIELD_NAME": "Aurora_Revision_Reason__c",
+      "FIELD_VALUE": "Corrections",
+      "CUSTOM_FIELD_ID": "Aurora_Revision_Reason__c"
+    },
+    {
+      "FIELD_NAME": "Aurora_Revision_Required__c",
+      "FIELD_VALUE": "2022-12-27 00:00:00",
+      "CUSTOM_FIELD_ID": "Aurora_Revision_Required__c"
+    },
+    {
+      "FIELD_NAME": "Aurora_Status__c",
+      "FIELD_VALUE": "Aurora Revision Complete",
+      "CUSTOM_FIELD_ID": "Aurora_Status__c"
+    },
+    {
+      "FIELD_NAME": "BA_Assist_Reason__c",
+      "FIELD_VALUE": "Permitting Issue",
+      "CUSTOM_FIELD_ID": "BA_Assist_Reason__c"
+    },
+    {
+      "FIELD_NAME": "BA_Assist_Requestor__c",
+      "FIELD_VALUE": 21858792,
+      "CUSTOM_FIELD_ID": "BA_Assist_Requestor__c"
+    },
+    {
+      "FIELD_NAME": "Battery_Location_Review_1__c",
+      "FIELD_VALUE": "On House",
+      "CUSTOM_FIELD_ID": "Battery_Location_Review_1__c"
+    },
+    {
+      "FIELD_NAME": "Better_Advisor_Assist__c",
+      "FIELD_VALUE": "asdasd test 1\n\n**REQUEST BELOW WAS RESOLVED**\nOM identified a potential Unpermitted Structure, please follow up with customer to ensure this is permitted before we move forward.\nNOTES:\n\n____\n**REQUEST BELOW WAS RESOLVED**\n**REQUEST BELOW WAS RESOLVED**\n2023-09-20 - We sent the roof agreement to the client 7 days ago but it has not yet been signed. Please get this signed asap so we can continue forward with the project\n\n**REQUEST BELOW WAS RESOLVED**\n**REQUEST BELOW WAS RESOLVED**\n09 19 2023 - this is a test\n\nMM-DD-YY - this is a test\n\n2023-08-08 - Request is still not resolved.\n---\nRequest is still not resolved.\n---\n**REQUEST BELOW WAS RESOLVED**\n2023-07-25T13:38:15Z CHO- Change Order sitting for over 14 days. Requiring Follow Up\n\n2023-07-18T14:43:18Z CHO- CO Sent but not signed over 3 days ago. Follow Up Required\n\n2023-07-14T12:22:21Z CHO- CO Sent but not signed over 3 days ago. Follow Up Required\n\n2023-06-27T10:35:30Z- We attempted to complete the welcome call with your client, but it failed due to {insert notes from Failure Reason field}. Please review with the client to get the Welcome Call Rebooked asap so we can continue moving forward- Re-booking Link Will Be Here\n___\n2023-06-26T13:11:10Z- We attempted to complete the welcome call with your client, but it failed due to {insert notes from Failure Reason field}. Please review with the client to get the Welcome Call Rebooked asap so we can continue moving forward- \n___\nDS 2023-06-26T13:05:08Z: Site Survey Cancelled because [TESTING]\n\n**REQUEST BELOW WAS RESOLVED**\n2023-06-04T12:44:59Z - we cannot proceed with this project as it does not meet necessary guidelines for a mobile/manufactured home in this area. Please review knowledge base to see what is needed to move forward! -DS\n------------------------\n2023-06-04T11:35:29Z - we cannot proceed with this project as it does not meet necessary guidelines for a mobile/manufactured home in this area. Please review knowledge base to see what is needed to move forward! -DS\n------------------------\nHO has not paid for project after 14 days of installation, please inquire with HO for reason in delay in payment...\n\nCX ASSIST NOTES from previous step.\n2023-05-19T15:49:21Z MPU Trench was called out, which will result in a $16k adder. Customer must approve this and rep must sign change order to include prior to job moving forward. Job will be stopped until the above is resolved!\n\nThere may be a chance to avoid an mpu depending on the value of the strictness of MPU field: \nMust Occur- No Alternative\n_____\n2023-05-19T15:48:15Z MPU Trench was called out, which will result in a $16k adder. Customer must approve this and rep must sign change order to include prior to job moving forward. Job will be stopped until the above is resolved!\n\nThere may be a chance to avoid an mpu depending on the value of the strictness of MPU field: \nMust Occur- No Alternative\n_____\n2023-05-19T15:43:03Z MPU Trench was called out, which will result in a $16k adder. Customer must approve this and rep must sign change order to include prior to job moving forward. Job will be stopped until the above is resolved!\n\nThere may be a chance to avoid an mpu depending on the value of the strictness of MPU field: \nMust Occur- No Alternative\n_____\n2023-05-17 - Utility Kickback pending action from HO: needs something to move forward\n ------ \n \n2023-03-17 16:16:28- Utility bill was uploaded, please verify if we can close the CXA.\n\nPrevious notes:\nDean 2/13 - testy tester stuff\n**REQUEST BELOW WAS RESOLVED**.\nDean 2/10 - get ur stuff together\n\nRequest below was resolved:\nRequest below was resolved:\nRequest below was resolved:\ncan you do this thing?\nRequest below was resolved:\n__HEYEYEYEY\nTESTING TESTING",
+      "CUSTOM_FIELD_ID": "Better_Advisor_Assist__c"
+    },
+    {
+      "FIELD_NAME": "Better_Advisor_Assist_Needed__c",
+      "FIELD_VALUE": "2023-11-13 00:00:00",
+      "CUSTOM_FIELD_ID": "Better_Advisor_Assist_Needed__c"
+    },
+    {
+      "FIELD_NAME": "Better_ID__c",
+      "FIELD_VALUE": "BE4436",
+      "CUSTOM_FIELD_ID": "Better_ID__c"
+    },
+    {
+      "FIELD_NAME": "BOLT_Start__c",
+      "FIELD_VALUE": 30.0,
+      "CUSTOM_FIELD_ID": "BOLT_Start__c"
+    },
+    {
+      "FIELD_NAME": "Cancellation_Date__c",
+      "FIELD_VALUE": "2023-11-14 00:00:00",
+      "CUSTOM_FIELD_ID": "Cancellation_Date__c"
+    },
+    {
+      "FIELD_NAME": "Cash_Customer_Created_in_QBO__c",
+      "FIELD_VALUE": "2001-01-01 00:00:00",
+      "CUSTOM_FIELD_ID": "Cash_Customer_Created_in_QBO__c"
+    },
+    {
+      "FIELD_NAME": "Change_Order_Required__c",
+      "FIELD_VALUE": "2023-01-18 00:00:00",
+      "CUSTOM_FIELD_ID": "Change_Order_Required__c"
+    },
+    {
+      "FIELD_NAME": "Change_Order_Sent__c",
+      "FIELD_VALUE": "2023-07-18 00:00:00",
+      "CUSTOM_FIELD_ID": "Change_Order_Sent__c"
+    },
+    {
+      "FIELD_NAME": "Contract_Price__c",
+      "FIELD_VALUE": 60000.0,
+      "CUSTOM_FIELD_ID": "Contract_Price__c"
+    },
+    {
+      "FIELD_NAME": "Current_Design__c",
+      "FIELD_VALUE": 20286933,
+      "CUSTOM_FIELD_ID": "Current_Design__c"
+    },
+    {
+      "FIELD_NAME": "Current_Mapping_Delay__c",
+      "FIELD_VALUE": 35182313,
+      "CUSTOM_FIELD_ID": "Current_Mapping_Delay__c"
+    },
+    {
+      "FIELD_NAME": "Current_PTO_Kickback_Service_Ticket__c",
+      "FIELD_VALUE": 18777564,
+      "CUSTOM_FIELD_ID": "Current_PTO_Kickback_Service_Ticket__c"
+    },
+    {
+      "FIELD_NAME": "Custom_Adder_Cost__c",
+      "FIELD_VALUE": 4111.0,
+      "CUSTOM_FIELD_ID": "Custom_Adder_Cost__c"
+    },
+    {
+      "FIELD_NAME": "Custom_Adders__c",
+      "FIELD_VALUE": "ohoih",
+      "CUSTOM_FIELD_ID": "Custom_Adders__c"
+    },
+    {
+      "FIELD_NAME": "Customer__c",
+      "FIELD_VALUE": 349984855,
+      "CUSTOM_FIELD_ID": "Customer__c"
+    },
+    {
+      "FIELD_NAME": "Customer_Email__c",
+      "FIELD_VALUE": "joanna.f@betterearth.solar",
+      "CUSTOM_FIELD_ID": "Customer_Email__c"
+    },
+    {
+      "FIELD_NAME": "Customer_Phone__c",
+      "FIELD_VALUE": "111111111116",
+      "CUSTOM_FIELD_ID": "Customer_Phone__c"
+    },
+    {
+      "FIELD_NAME": "Customer_Portal_Code__c",
+      "FIELD_VALUE": "BAMMHGMD",
+      "CUSTOM_FIELD_ID": "Customer_Portal_Code__c"
+    },
+    {
+      "FIELD_NAME": "Customer_Reroof_Requested__c",
+      "FIELD_VALUE": "No",
+      "CUSTOM_FIELD_ID": "Customer_Reroof_Requested__c"
+    },
+    {
+      "FIELD_NAME": "Customer_Texts__c",
+      "FIELD_VALUE": "Survey Scheduled;Install Scheduled",
+      "CUSTOM_FIELD_ID": "Customer_Texts__c"
+    },
+    {
+      "FIELD_NAME": "Customer_Usage_Offset__c",
+      "FIELD_VALUE": 41.0,
+      "CUSTOM_FIELD_ID": "Customer_Usage_Offset__c"
+    },
+    {
+      "FIELD_NAME": "CX_Team_Member__c",
+      "FIELD_VALUE": 16112227,
+      "CUSTOM_FIELD_ID": "CX_Team_Member__c"
+    },
+    {
+      "FIELD_NAME": "Date_of_Planset_Submitted__c",
+      "FIELD_VALUE": "2023-03-23 00:00:00",
+      "CUSTOM_FIELD_ID": "Date_of_Planset_Submitted__c"
+    },
+    {
+      "FIELD_NAME": "Day_Guarantee_Counter__c",
+      "FIELD_VALUE": 973.0,
+      "CUSTOM_FIELD_ID": "Day_Guarantee_Counter__c"
+    },
+    {
+      "FIELD_NAME": "Day_Guarantee_Start__c",
+      "FIELD_VALUE": "2021-05-06 00:00:00",
+      "CUSTOM_FIELD_ID": "Day_Guarantee_Start__c"
+    },
+    {
+      "FIELD_NAME": "Deal_Scrub_Failed__c",
+      "FIELD_VALUE": "2023-09-13 00:00:00",
+      "CUSTOM_FIELD_ID": "Deal_Scrub_Failed__c"
+    },
+    {
+      "FIELD_NAME": "Deferred_Counter__c",
+      "FIELD_VALUE": 22.0,
+      "CUSTOM_FIELD_ID": "Deferred_Counter__c"
+    },
+    {
+      "FIELD_NAME": "Delay_of_Mapping__c",
+      "FIELD_VALUE": "2023-08-16 00:00:00",
+      "CUSTOM_FIELD_ID": "Delay_of_Mapping__c"
+    },
+    {
+      "FIELD_NAME": "Design_Notes__c",
+      "FIELD_VALUE": "2023-06-04T12:44:59Z - please verify that the CXA was resolved before proceeding. - DS\n------------------------\n2023-06-04T11:35:29Z - please verify that the CXA was resolved before proceeding. - DS\n------------------------\nPer OM's Review\n\nPer OM's Review: Other (Explain in Notes)  test test",
+      "CUSTOM_FIELD_ID": "Design_Notes__c"
+    },
+    {
+      "FIELD_NAME": "Design_Team__c",
+      "FIELD_VALUE": "Solar Deployed",
+      "CUSTOM_FIELD_ID": "Design_Team__c"
+    },
+    {
+      "FIELD_NAME": "Direct_Pay__c",
+      "FIELD_VALUE": "No",
+      "CUSTOM_FIELD_ID": "Direct_Pay__c"
+    },
+    {
+      "FIELD_NAME": "Direct_Pay_Loan_ID__c",
+      "FIELD_VALUE": "123456",
+      "CUSTOM_FIELD_ID": "Direct_Pay_Loan_ID__c"
+    },
+    {
+      "FIELD_NAME": "Disposition_Code_1__c",
+      "FIELD_VALUE": "CX-O-PR-PERMIT",
+      "CUSTOM_FIELD_ID": "Disposition_Code_1__c"
+    },
+    {
+      "FIELD_NAME": "Down_Payment_Amount__c",
+      "FIELD_VALUE": 1000.0,
+      "CUSTOM_FIELD_ID": "Down_Payment_Amount__c"
+    },
+    {
+      "FIELD_NAME": "Down_Payment_Received__c",
+      "FIELD_VALUE": "2022-12-22 00:00:00",
+      "CUSTOM_FIELD_ID": "Down_Payment_Received__c"
+    },
+    {
+      "FIELD_NAME": "Electric_Service_ID__c",
+      "FIELD_VALUE": "111111111c",
+      "CUSTOM_FIELD_ID": "Electric_Service_ID__c"
+    },
+    {
+      "FIELD_NAME": "Engineering_Required__c",
+      "FIELD_VALUE": "Electrical Engineering- Digital Stamp;Structural Engineering- Digital Stamp",
+      "CUSTOM_FIELD_ID": "Engineering_Required__c"
+    },
+    {
+      "FIELD_NAME": "Escalation_Level__c",
+      "FIELD_VALUE": "4",
+      "CUSTOM_FIELD_ID": "Escalation_Level__c"
+    },
+    {
+      "FIELD_NAME": "EverBright_PPA_Type__c",
+      "FIELD_VALUE": "PowerShift",
+      "CUSTOM_FIELD_ID": "EverBright_PPA_Type__c"
+    },
+    {
+      "FIELD_NAME": "Existing_AC_Disconnect_Make_Model__c",
+      "FIELD_VALUE": "test 12",
+      "CUSTOM_FIELD_ID": "Existing_AC_Disconnect_Make_Model__c"
+    },
+    {
+      "FIELD_NAME": "Existing_Inverter_Brand__c",
+      "FIELD_VALUE": "test 123",
+      "CUSTOM_FIELD_ID": "Existing_Inverter_Brand__c"
+    },
+    {
+      "FIELD_NAME": "Existing_Module_Brand__c",
+      "FIELD_VALUE": "test 123",
+      "CUSTOM_FIELD_ID": "Existing_Module_Brand__c"
+    },
+    {
+      "FIELD_NAME": "Existing_Module_Size__c",
+      "FIELD_VALUE": 10.0,
+      "CUSTOM_FIELD_ID": "Existing_Module_Size__c"
+    },
+    {
+      "FIELD_NAME": "Existing_Number_of_Inverters__c",
+      "FIELD_VALUE": 1.0,
+      "CUSTOM_FIELD_ID": "Existing_Number_of_Inverters__c"
+    },
+    {
+      "FIELD_NAME": "Existing_PV_System__c",
+      "FIELD_VALUE": true,
+      "CUSTOM_FIELD_ID": "Existing_PV_System__c"
+    },
+    {
+      "FIELD_NAME": "Extremely_Outside_SLA__c",
+      "FIELD_VALUE": false,
+      "CUSTOM_FIELD_ID": "Extremely_Outside_SLA__c"
+    },
+    {
+      "FIELD_NAME": "Finance_Amount__c",
+      "FIELD_VALUE": 20000.0,
+      "CUSTOM_FIELD_ID": "Finance_Amount__c"
+    },
+    {
+      "FIELD_NAME": "Finance_Change_Order_Signed__c",
+      "FIELD_VALUE": "2023-07-18 00:00:00",
+      "CUSTOM_FIELD_ID": "Finance_Change_Order_Signed__c"
+    },
+    {
+      "FIELD_NAME": "Finance_Company__c",
+      "FIELD_VALUE": 165274827,
+      "CUSTOM_FIELD_ID": "Finance_Company__c"
+    },
+    {
+      "FIELD_NAME": "Finance_Company_Name__c",
+      "FIELD_VALUE": "Sunnova",
+      "CUSTOM_FIELD_ID": "Finance_Company_Name__c"
+    },
+    {
+      "FIELD_NAME": "Finance_Signed_Date__c",
+      "FIELD_VALUE": "2021-08-31 00:00:00",
+      "CUSTOM_FIELD_ID": "Finance_Signed_Date__c"
+    },
+    {
+      "FIELD_NAME": "Financing_Term__c",
+      "FIELD_VALUE": "N/A",
+      "CUSTOM_FIELD_ID": "Financing_Term__c"
+    },
+    {
+      "FIELD_NAME": "Google_Drive_Link__c",
+      "FIELD_VALUE": "https://drive.google.com/drive/u/0/folders/1tMh2mxN3wYGUxgt2rkWQaHrnOY3rKnZO",
+      "CUSTOM_FIELD_ID": "Google_Drive_Link__c"
+    },
+    {
+      "FIELD_NAME": "Hardware_Adders__c",
+      "FIELD_VALUE": "Roof Pitch Over 32\u00b0;Elective MPU;1 Franklin Batt (Partial Backup)",
+      "CUSTOM_FIELD_ID": "Hardware_Adders__c"
+    },
+    {
+      "FIELD_NAME": "HOA_Bypass_Signed__c",
+      "FIELD_VALUE": false,
+      "CUSTOM_FIELD_ID": "HOA_Bypass_Signed__c"
+    },
+    {
+      "FIELD_NAME": "HOA_Object__c",
+      "FIELD_VALUE": 36591408,
+      "CUSTOM_FIELD_ID": "HOA_Object__c"
+    },
+    {
+      "FIELD_NAME": "HOA_Present__c",
+      "FIELD_VALUE": false,
+      "CUSTOM_FIELD_ID": "HOA_Present__c"
+    },
+    {
+      "FIELD_NAME": "IA_Change_Order_Signed__c",
+      "FIELD_VALUE": "2023-07-18 00:00:00",
+      "CUSTOM_FIELD_ID": "IA_Change_Order_Signed__c"
+    },
+    {
+      "FIELD_NAME": "IACO_Form_Sent__c",
+      "FIELD_VALUE": "2023-07-27 00:00:00",
+      "CUSTOM_FIELD_ID": "IACO_Form_Sent__c"
+    },
+    {
+      "FIELD_NAME": "ICX_PreApproval_Notes__c",
+      "FIELD_VALUE": "123123 testify test 456 2 it's workinguuuu",
+      "CUSTOM_FIELD_ID": "ICX_PreApproval_Notes__c"
+    },
+    {
+      "FIELD_NAME": "ICX_PreApproval_Requir_1__c",
+      "FIELD_VALUE": "Optional/No Permit Requisite",
+      "CUSTOM_FIELD_ID": "ICX_PreApproval_Requir_1__c"
+    },
+    {
+      "FIELD_NAME": "Initial_Deal_Scrub_Complete__c",
+      "FIELD_VALUE": "2023-09-19 00:00:00",
+      "CUSTOM_FIELD_ID": "Initial_Deal_Scrub_Complete__c"
+    },
+    {
+      "FIELD_NAME": "Initial_Design_Complete__c",
+      "FIELD_VALUE": "2023-08-02 00:00:00",
+      "CUSTOM_FIELD_ID": "Initial_Design_Complete__c"
+    },
+    {
+      "FIELD_NAME": "Initial_Funding_Approved__c",
+      "FIELD_VALUE": "2021-04-21 00:00:00",
+      "CUSTOM_FIELD_ID": "Initial_Funding_Approved__c"
+    },
+    {
+      "FIELD_NAME": "Initial_Scheduling_Attempt__c",
+      "FIELD_VALUE": "2023-09-15 00:00:00",
+      "CUSTOM_FIELD_ID": "Initial_Scheduling_Attempt__c"
+    },
+    {
+      "FIELD_NAME": "Inspection_1__c",
+      "FIELD_VALUE": 35573085,
+      "CUSTOM_FIELD_ID": "Inspection_1__c"
+    },
+    {
+      "FIELD_NAME": "Inspection_2__c",
+      "FIELD_VALUE": 13894518,
+      "CUSTOM_FIELD_ID": "Inspection_2__c"
+    },
+    {
+      "FIELD_NAME": "Inspection_Confirmed_with_HO__c",
+      "FIELD_VALUE": false,
+      "CUSTOM_FIELD_ID": "Inspection_Confirmed_with_HO__c"
+    },
+    {
+      "FIELD_NAME": "Inspection_Notes__c",
+      "FIELD_VALUE": ".kigiug;  test;  Form submitter: Angie testing;  Form submitter: test;  Form submitter: test;  Form submitter: test",
+      "CUSTOM_FIELD_ID": "Inspection_Notes__c"
+    },
+    {
+      "FIELD_NAME": "Inspection_Status__c",
+      "FIELD_VALUE": "Inspection Not Ready to Schedule",
+      "CUSTOM_FIELD_ID": "Inspection_Status__c"
+    },
+    {
+      "FIELD_NAME": "Install_Agreement__c",
+      "FIELD_VALUE": "www.testingbetterearthinstallagreement.comm",
+      "CUSTOM_FIELD_ID": "Install_Agreement__c"
+    },
+    {
+      "FIELD_NAME": "Install_Complete_for_Funding_Timestamp__c",
+      "FIELD_VALUE": "2023-07-24 00:00:00",
+      "CUSTOM_FIELD_ID": "Install_Complete_for_Funding_Timestamp__c"
+    },
+    {
+      "FIELD_NAME": "Install_Confirmed_with_HO__c",
+      "FIELD_VALUE": false,
+      "CUSTOM_FIELD_ID": "Install_Confirmed_with_HO__c"
+    },
+    {
+      "FIELD_NAME": "Install_Date__c",
+      "FIELD_VALUE": "2023-10-12 00:00:00",
+      "CUSTOM_FIELD_ID": "Install_Date__c"
+    },
+    {
+      "FIELD_NAME": "Install_Day_2__c",
+      "FIELD_VALUE": 36745730,
+      "CUSTOM_FIELD_ID": "Install_Day_2__c"
+    },
+    {
+      "FIELD_NAME": "Install_Days_Scheduled__c",
+      "FIELD_VALUE": "Tuesday;Wednesday;Thursday",
+      "CUSTOM_FIELD_ID": "Install_Days_Scheduled__c"
+    },
+    {
+      "FIELD_NAME": "Install_Details__c",
+      "FIELD_VALUE": 36745592,
+      "CUSTOM_FIELD_ID": "Install_Details__c"
+    },
+    {
+      "FIELD_NAME": "Install_Duration__c",
+      "FIELD_VALUE": "1.5 Day",
+      "CUSTOM_FIELD_ID": "Install_Duration__c"
+    },
+    {
+      "FIELD_NAME": "Install_DurationCalc__c",
+      "FIELD_VALUE": 12.0,
+      "CUSTOM_FIELD_ID": "Install_DurationCalc__c"
+    },
+    {
+      "FIELD_NAME": "Install_Notes__c",
+      "FIELD_VALUE": "HO must be home for install!\n\nSchedule install for 2 days back to back! HO must be home for install!!!\nWifi Network Name:\nWifi Password:\nHey Adrian,\n\nThe installation day is scheduled for 2023-10-12 and continuing on Tuesday, Wednesday, Thursday.\n\nThis is our favorite part of the process, and we are excited to complete your solar installation.\n\nWhat to expect: \n\nOur team will arrive between 7-10 AM to begin work. They will let you know when they arrive before starting the work. They will set up a safe work environment to ensure you and anyone else at home know where they will be working on the property. \n\nPlease contain any pets for the duration of the installation and, if possible, clear your driveway to give our Installation team space to park and unload their vehicle.\n\nPlease make sure everyone on your property is aware of this scheduled installation.\n\nFor Any Questions:\n\nYou should have received a text and email notification with a link to access your personal customer portal to view your project. If you ever need any support or have any questions, the best and fastest way to get help is chatting in with us from your customer portal. You can select \ud83d\udcac Chat in the bottom right hand corner of your portal and a live chat box will appear to help pinpoint how our customer service team can best help!",
+      "CUSTOM_FIELD_ID": "Install_Notes__c"
+    },
+    {
+      "FIELD_NAME": "Install_Priority__c",
+      "FIELD_VALUE": "Needs Review",
+      "CUSTOM_FIELD_ID": "Install_Priority__c"
+    },
+    {
+      "FIELD_NAME": "Install_Region__c",
+      "FIELD_VALUE": "Cerritos, CA",
+      "CUSTOM_FIELD_ID": "Install_Region__c"
+    },
+    {
+      "FIELD_NAME": "Install_Return_Confirmed_w_HO__c",
+      "FIELD_VALUE": false,
+      "CUSTOM_FIELD_ID": "Install_Return_Confirmed_w_HO__c"
+    },
+    {
+      "FIELD_NAME": "Install_Return_Confirmed_with_All_Parties__c",
+      "FIELD_VALUE": false,
+      "CUSTOM_FIELD_ID": "Install_Return_Confirmed_with_All_Parties__c"
+    },
+    {
+      "FIELD_NAME": "Install_Scheduling_Status__c",
+      "FIELD_VALUE": "Install Not Ready to Schedule",
+      "CUSTOM_FIELD_ID": "Install_Scheduling_Status__c"
+    },
+    {
+      "FIELD_NAME": "Install_Start_Report__c",
+      "FIELD_VALUE": 32422834,
+      "CUSTOM_FIELD_ID": "Install_Start_Report__c"
+    },
+    {
+      "FIELD_NAME": "Installer__c",
+      "FIELD_VALUE": 146899150,
+      "CUSTOM_FIELD_ID": "Installer__c"
+    },
+    {
+      "FIELD_NAME": "Interest_Rate__c",
+      "FIELD_VALUE": "N/A",
+      "CUSTOM_FIELD_ID": "Interest_Rate__c"
+    },
+    {
+      "FIELD_NAME": "Inverter_Make__c",
+      "FIELD_VALUE": "SolarEdge",
+      "CUSTOM_FIELD_ID": "Inverter_Make__c"
+    },
+    {
+      "FIELD_NAME": "Inverter_Model__c",
+      "FIELD_VALUE": "10000H-US (Energy Hub)",
+      "CUSTOM_FIELD_ID": "Inverter_Model__c"
+    },
+    {
+      "FIELD_NAME": "Inverter_Size_Calculation__c",
+      "FIELD_VALUE": 0.0,
+      "CUSTOM_FIELD_ID": "Inverter_Size_Calculation__c"
+    },
+    {
+      "FIELD_NAME": "Inverter_Type__c",
+      "FIELD_VALUE": "RGM",
+      "CUSTOM_FIELD_ID": "Inverter_Type__c"
+    },
+    {
+      "FIELD_NAME": "Job_Equipment_Record__c",
+      "FIELD_VALUE": 37857890,
+      "CUSTOM_FIELD_ID": "Job_Equipment_Record__c"
+    },
+    {
+      "FIELD_NAME": "Job_Type_for_ETA__c",
+      "FIELD_VALUE": "MPUReRoofJob",
+      "CUSTOM_FIELD_ID": "Job_Type_for_ETA__c"
+    },
+    {
+      "FIELD_NAME": "Last_Sales_Follow_Up__c",
+      "FIELD_VALUE": "2023-11-27 00:00:00",
+      "CUSTOM_FIELD_ID": "Last_Sales_Follow_Up__c"
+    },
+    {
+      "FIELD_NAME": "Lead__c",
+      "FIELD_VALUE": 53671015,
+      "CUSTOM_FIELD_ID": "Lead__c"
+    },
+    {
+      "FIELD_NAME": "Lead_Type__c",
+      "FIELD_VALUE": "Lead Gen (Inside Sales)",
+      "CUSTOM_FIELD_ID": "Lead_Type__c"
+    },
+    {
+      "FIELD_NAME": "Lean_Forward_for_Install__c",
+      "FIELD_VALUE": "Soft Stop - Low Risk",
+      "CUSTOM_FIELD_ID": "Lean_Forward_for_Install__c"
+    },
+    {
+      "FIELD_NAME": "Lean_Forward_Risk_1__c",
+      "FIELD_VALUE": "Low",
+      "CUSTOM_FIELD_ID": "Lean_Forward_Risk_1__c"
+    },
+    {
+      "FIELD_NAME": "Level_of_Permit_Accuracy_1__c",
+      "FIELD_VALUE": "Planset Only Must Match Install",
+      "CUSTOM_FIELD_ID": "Level_of_Permit_Accuracy_1__c"
+    },
+    {
+      "FIELD_NAME": "Loanpal_Application_ID__c",
+      "FIELD_VALUE": "6454984984984",
+      "CUSTOM_FIELD_ID": "Loanpal_Application_ID__c"
+    },
+    {
+      "FIELD_NAME": "LPV_Status_1__c",
+      "FIELD_VALUE": "LPV Completed",
+      "CUSTOM_FIELD_ID": "LPV_Status_1__c"
+    },
+    {
+      "FIELD_NAME": "MappingActivation_Delay_Reason__c",
+      "FIELD_VALUE": "System Missing String/Optimizers",
+      "CUSTOM_FIELD_ID": "MappingActivation_Delay_Reason__c"
+    },
+    {
+      "FIELD_NAME": "Marketing_Company__c",
+      "FIELD_VALUE": "Energy Sage",
+      "CUSTOM_FIELD_ID": "Marketing_Company__c"
+    },
+    {
+      "FIELD_NAME": "Meter_Release_Approved__c",
+      "FIELD_VALUE": "2021-04-06 00:00:00",
+      "CUSTOM_FIELD_ID": "Meter_Release_Approved__c"
+    },
+    {
+      "FIELD_NAME": "Meter_Release_Scheduled__c",
+      "FIELD_VALUE": "2021-04-06 00:00:00",
+      "CUSTOM_FIELD_ID": "Meter_Release_Scheduled__c"
+    },
+    {
+      "FIELD_NAME": "Milestone_Date_Texts__c",
+      "FIELD_VALUE": "Monday, 11 July 2022",
+      "CUSTOM_FIELD_ID": "Milestone_Date_Texts__c"
+    },
+    {
+      "FIELD_NAME": "Missing_All_Site_Survey_Photos__c",
+      "FIELD_VALUE": false,
+      "CUSTOM_FIELD_ID": "Missing_All_Site_Survey_Photos__c"
+    },
+    {
+      "FIELD_NAME": "Module_Make__c",
+      "FIELD_VALUE": "Hanwha Q CELLS",
+      "CUSTOM_FIELD_ID": "Module_Make__c"
+    },
+    {
+      "FIELD_NAME": "Module_Model__c",
+      "FIELD_VALUE": "Q.PEAK DUO BLK ML-G10+ 405",
+      "CUSTOM_FIELD_ID": "Module_Model__c"
+    },
+    {
+      "FIELD_NAME": "Module_Model_Type__c",
+      "FIELD_VALUE": "Standard",
+      "CUSTOM_FIELD_ID": "Module_Model_Type__c"
+    },
+    {
+      "FIELD_NAME": "MPU_Needed__c",
+      "FIELD_VALUE": true,
+      "CUSTOM_FIELD_ID": "MPU_Needed__c"
+    },
+    {
+      "FIELD_NAME": "MPU_Permit_Approved__c",
+      "FIELD_VALUE": "2023-03-23 00:00:00",
+      "CUSTOM_FIELD_ID": "MPU_Permit_Approved__c"
+    },
+    {
+      "FIELD_NAME": "MPU_Permit_Delivered_Date__c",
+      "FIELD_VALUE": "2023-03-23 00:00:00",
+      "CUSTOM_FIELD_ID": "MPU_Permit_Delivered_Date__c"
+    },
+    {
+      "FIELD_NAME": "MPU_Permit_Required_1__c",
+      "FIELD_VALUE": "Yes- Same as Solar Permit",
+      "CUSTOM_FIELD_ID": "MPU_Permit_Required_1__c"
+    },
+    {
+      "FIELD_NAME": "MPU_Permit_Status__c",
+      "FIELD_VALUE": "MPU Permit Delivered",
+      "CUSTOM_FIELD_ID": "MPU_Permit_Status__c"
+    },
+    {
+      "FIELD_NAME": "MPU_Ready_for_Final_Inspection__c",
+      "FIELD_VALUE": "2023-08-07 00:00:00",
+      "CUSTOM_FIELD_ID": "MPU_Ready_for_Final_Inspection__c"
+    },
+    {
+      "FIELD_NAME": "MPU_Record__c",
+      "FIELD_VALUE": 36524960,
+      "CUSTOM_FIELD_ID": "MPU_Record__c"
+    },
+    {
+      "FIELD_NAME": "MPU_Status__c",
+      "FIELD_VALUE": "Meter Spot Request Ready to Submit",
+      "CUSTOM_FIELD_ID": "MPU_Status__c"
+    },
+    {
+      "FIELD_NAME": "Name_on_Finance__c",
+      "FIELD_VALUE": "JOANNA FALCONE",
+      "CUSTOM_FIELD_ID": "Name_on_Finance__c"
+    },
+    {
+      "FIELD_NAME": "Name_on_Utility_Bill__c",
+      "FIELD_VALUE": "JOANNA FALCONE",
+      "CUSTOM_FIELD_ID": "Name_on_Utility_Bill__c"
+    },
+    {
+      "FIELD_NAME": "Net_PPW__c",
+      "FIELD_VALUE": 15.52,
+      "CUSTOM_FIELD_ID": "Net_PPW__c"
+    },
+    {
+      "FIELD_NAME": "NTP_Notes__c",
+      "FIELD_VALUE": "NTP Submitted/Received cleared by Automation due to CO.",
+      "CUSTOM_FIELD_ID": "NTP_Notes__c"
+    },
+    {
+      "FIELD_NAME": "NTP_Received_Date__c",
+      "FIELD_VALUE": "2023-09-20 00:00:00",
+      "CUSTOM_FIELD_ID": "NTP_Received_Date__c"
+    },
+    {
+      "FIELD_NAME": "NTP_Status__c",
+      "FIELD_VALUE": "NTP Received",
+      "CUSTOM_FIELD_ID": "NTP_Status__c"
+    },
+    {
+      "FIELD_NAME": "Number_of_Batteries__c",
+      "FIELD_VALUE": 1.0,
+      "CUSTOM_FIELD_ID": "Number_of_Batteries__c"
+    },
+    {
+      "FIELD_NAME": "Number_of_Inverters__c",
+      "FIELD_VALUE": 1.0,
+      "CUSTOM_FIELD_ID": "Number_of_Inverters__c"
+    },
+    {
+      "FIELD_NAME": "Number_of_Modules__c",
+      "FIELD_VALUE": 20.0,
+      "CUSTOM_FIELD_ID": "Number_of_Modules__c"
+    },
+    {
+      "FIELD_NAME": "Number_of_Mounts_1__c",
+      "FIELD_VALUE": 30.0,
+      "CUSTOM_FIELD_ID": "Number_of_Mounts_1__c"
+    },
+    {
+      "FIELD_NAME": "Number_of_Panels_Tilted__c",
+      "FIELD_VALUE": 5.0,
+      "CUSTOM_FIELD_ID": "Number_of_Panels_Tilted__c"
+    },
+    {
+      "FIELD_NAME": "Number_of_Stories___c",
+      "FIELD_VALUE": 2.0,
+      "CUSTOM_FIELD_ID": "Number_of_Stories___c"
+    },
+    {
+      "FIELD_NAME": "Orig_Proj_Label__c",
+      "FIELD_VALUE": "Lightning",
+      "CUSTOM_FIELD_ID": "Orig_Proj_Label__c"
+    },
+    {
+      "FIELD_NAME": "Permit_Coord__c",
+      "FIELD_VALUE": 29464507,
+      "CUSTOM_FIELD_ID": "Permit_Coord__c"
+    },
+    {
+      "FIELD_NAME": "Permitting_Counter__c",
+      "FIELD_VALUE": 32.0,
+      "CUSTOM_FIELD_ID": "Permitting_Counter__c"
+    },
+    {
+      "FIELD_NAME": "Permitting_Notes__c",
+      "FIELD_VALUE": "2023-06-04T12:44:59Z - please verify that the CXA was resolved before proceeding. - DS\n------------------------\n2023-06-04T11:35:29Z - please verify that the CXA was resolved before proceeding. - DS\n------------------------\nNeed AHJ to stamp plans for Inspection to Pass000",
+      "CUSTOM_FIELD_ID": "Permitting_Notes__c"
+    },
+    {
+      "FIELD_NAME": "Placards_Ordered__c",
+      "FIELD_VALUE": "2022-11-08 00:00:00",
+      "CUSTOM_FIELD_ID": "Placards_Ordered__c"
+    },
+    {
+      "FIELD_NAME": "Placards_Status__c",
+      "FIELD_VALUE": "Placards Ordered",
+      "CUSTOM_FIELD_ID": "Placards_Status__c"
+    },
+    {
+      "FIELD_NAME": "Plan_Set_Complete_Date__c",
+      "FIELD_VALUE": "2023-05-20 07:00:00",
+      "CUSTOM_FIELD_ID": "Plan_Set_Complete_Date__c"
+    },
+    {
+      "FIELD_NAME": "Plan_Set_Design_Status__c",
+      "FIELD_VALUE": "Plan Set Revisions Complete",
+      "CUSTOM_FIELD_ID": "Plan_Set_Design_Status__c"
+    },
+    {
+      "FIELD_NAME": "Plan_Set_Revision__c",
+      "FIELD_VALUE": "Roof Type Change",
+      "CUSTOM_FIELD_ID": "Plan_Set_Revision__c"
+    },
+    {
+      "FIELD_NAME": "Plan_Set_Revision_Reason__c",
+      "FIELD_VALUE": "Roof type has changed post reroof. Original RoofType:  >>> New Roof Type:  \nPlease reach out to roofs@betterearth.solar with any questions, this has reviewed and the final roof type is based on what the customer requested.",
+      "CUSTOM_FIELD_ID": "Plan_Set_Revision_Reason__c"
+    },
+    {
+      "FIELD_NAME": "Plan_Set_Revision_Required__c",
+      "FIELD_VALUE": "2023-10-26 00:00:00",
+      "CUSTOM_FIELD_ID": "Plan_Set_Revision_Required__c"
+    },
+    {
+      "FIELD_NAME": "Plan_Set_Revisions_Complete__c",
+      "FIELD_VALUE": "2023-11-03 00:00:00",
+      "CUSTOM_FIELD_ID": "Plan_Set_Revisions_Complete__c"
+    },
+    {
+      "FIELD_NAME": "PP_Accuracy_Review__c",
+      "FIELD_VALUE": "Good to Go for Inspection",
+      "CUSTOM_FIELD_ID": "PP_Accuracy_Review__c"
+    },
+    {
+      "FIELD_NAME": "Preferred_Language__c",
+      "FIELD_VALUE": "Spanish",
+      "CUSTOM_FIELD_ID": "Preferred_Language__c"
+    },
+    {
+      "FIELD_NAME": "PreInstall_Scheduling_Scrub_Complete__c",
+      "FIELD_VALUE": "2023-09-15 00:00:00",
+      "CUSTOM_FIELD_ID": "PreInstall_Scheduling_Scrub_Complete__c"
+    },
+    {
+      "FIELD_NAME": "Preliminary_Inspection_Passed__c",
+      "FIELD_VALUE": "2023-09-07 00:00:00",
+      "CUSTOM_FIELD_ID": "Preliminary_Inspection_Passed__c"
+    },
+    {
+      "FIELD_NAME": "Preliminary_Inspection_Required__c",
+      "FIELD_VALUE": true,
+      "CUSTOM_FIELD_ID": "Preliminary_Inspection_Required__c"
+    },
+    {
+      "FIELD_NAME": "Preliminary_Inspection_Scheduled__c",
+      "FIELD_VALUE": "2023-09-07 00:00:00",
+      "CUSTOM_FIELD_ID": "Preliminary_Inspection_Scheduled__c"
+    },
+    {
+      "FIELD_NAME": "Preliminary_Inspection_Type__c",
+      "FIELD_VALUE": "Fire",
+      "CUSTOM_FIELD_ID": "Preliminary_Inspection_Type__c"
+    },
+    {
+      "FIELD_NAME": "ProductionSystem_Size_Restrictions_1__c",
+      "FIELD_VALUE": "None",
+      "CUSTOM_FIELD_ID": "ProductionSystem_Size_Restrictions_1__c"
+    },
+    {
+      "FIELD_NAME": "Project_Address__c",
+      "FIELD_VALUE": "150 Sharon St., Test, CA 02879",
+      "CUSTOM_FIELD_ID": "Project_Address__c"
+    },
+    {
+      "FIELD_NAME": "Project_Approval_Status__c",
+      "FIELD_VALUE": "Finance Project Approved",
+      "CUSTOM_FIELD_ID": "Project_Approval_Status__c"
+    },
+    {
+      "FIELD_NAME": "Project_City__c",
+      "FIELD_VALUE": "Test",
+      "CUSTOM_FIELD_ID": "Project_City__c"
+    },
+    {
+      "FIELD_NAME": "Project_Country__c",
+      "FIELD_VALUE": "United Kingdom",
+      "CUSTOM_FIELD_ID": "Project_Country__c"
+    },
+    {
+      "FIELD_NAME": "Project_Label__c",
+      "FIELD_VALUE": "Steady",
+      "CUSTOM_FIELD_ID": "Project_Label__c"
+    },
+    {
+      "FIELD_NAME": "Project_Placed_In_Abandoned__c",
+      "FIELD_VALUE": "2023-10-09 00:00:00",
+      "CUSTOM_FIELD_ID": "Project_Placed_In_Abandoned__c"
+    },
+    {
+      "FIELD_NAME": "Project_Postal_Code__c",
+      "FIELD_VALUE": "02879",
+      "CUSTOM_FIELD_ID": "Project_Postal_Code__c"
+    },
+    {
+      "FIELD_NAME": "Project_Removed_From_Abandoned__c",
+      "FIELD_VALUE": "2023-10-10 00:00:00",
+      "CUSTOM_FIELD_ID": "Project_Removed_From_Abandoned__c"
+    },
+    {
+      "FIELD_NAME": "Project_Rev_Admin__c",
+      "FIELD_VALUE": 10393197,
+      "CUSTOM_FIELD_ID": "Project_Rev_Admin__c"
+    },
+    {
+      "FIELD_NAME": "Project_Review_Notes__c",
+      "FIELD_VALUE": "2023-06-04T12:44:59Z - please verify that the CXA was resolved before proceeding. - DS\n------------------------\n2023-06-04T11:35:29Z - please verify that the CXA was resolved before proceeding. - DS\n------------------------\nPER OM>>> Reroof Required Reason: Fragile Shingles;Underlayment Needs Replacement;Plywood Needs Replacement DO IT66666.",
+      "CUSTOM_FIELD_ID": "Project_Review_Notes__c"
+    },
+    {
+      "FIELD_NAME": "Project_State__c",
+      "FIELD_VALUE": "CA",
+      "CUSTOM_FIELD_ID": "Project_State__c"
+    },
+    {
+      "FIELD_NAME": "Project_Street__c",
+      "FIELD_VALUE": "150 Sharon St.",
+      "CUSTOM_FIELD_ID": "Project_Street__c"
+    },
+    {
+      "FIELD_NAME": "Project_Submitted__c",
+      "FIELD_VALUE": "2021-02-25 00:00:00",
+      "CUSTOM_FIELD_ID": "Project_Submitted__c"
+    },
+    {
+      "FIELD_NAME": "Property_Access_Rest__c",
+      "FIELD_VALUE": "Main Panel Located Inside",
+      "CUSTOM_FIELD_ID": "Property_Access_Rest__c"
+    },
+    {
+      "FIELD_NAME": "Property_Type__c",
+      "FIELD_VALUE": "Single Family",
+      "CUSTOM_FIELD_ID": "Property_Type__c"
+    },
+    {
+      "FIELD_NAME": "Proposal_Adders___c",
+      "FIELD_VALUE": "Elective MPU; Solaredge Energy Bank Qty 2;;SE Inverter Warranty Extension",
+      "CUSTOM_FIELD_ID": "Proposal_Adders___c"
+    },
+    {
+      "FIELD_NAME": "Proposal_Adders__c",
+      "FIELD_VALUE": "Ground Mount 16 module +;Municipalities",
+      "CUSTOM_FIELD_ID": "Proposal_Adders__c"
+    },
+    {
+      "FIELD_NAME": "PRR_Requestor__c",
+      "FIELD_VALUE": 10393197,
+      "CUSTOM_FIELD_ID": "PRR_Requestor__c"
+    },
+    {
+      "FIELD_NAME": "PTO_Coord__c",
+      "FIELD_VALUE": 20864460,
+      "CUSTOM_FIELD_ID": "PTO_Coord__c"
+    },
+    {
+      "FIELD_NAME": "PTO_ETA__c",
+      "FIELD_VALUE": "2022-02-13 00:00:00",
+      "CUSTOM_FIELD_ID": "PTO_ETA__c"
+    },
+    {
+      "FIELD_NAME": "PTO_Kickback__c",
+      "FIELD_VALUE": "2023-11-14 00:00:00",
+      "CUSTOM_FIELD_ID": "PTO_Kickback__c"
+    },
+    {
+      "FIELD_NAME": "PTO_Kickback_Details__c",
+      "FIELD_VALUE": "\"Brawley (CA) requires a cost letter from the utility in order to pass inspection. Please obtain letter and close out delay one in hand\u201d (include any previous delay details.\"\n\nneeds something to move forward",
+      "CUSTOM_FIELD_ID": "PTO_Kickback_Details__c"
+    },
+    {
+      "FIELD_NAME": "PTO_Kickback_Reason__c",
+      "FIELD_VALUE": "Cost Letter Needed",
+      "CUSTOM_FIELD_ID": "PTO_Kickback_Reason__c"
+    },
+    {
+      "FIELD_NAME": "PTO_Notes__c",
+      "FIELD_VALUE": "\u2026++--++--++--",
+      "CUSTOM_FIELD_ID": "PTO_Notes__c"
+    },
+    {
+      "FIELD_NAME": "PTO_Status__c",
+      "FIELD_VALUE": "PTO Kickback/Delay, Pending Resolution",
+      "CUSTOM_FIELD_ID": "PTO_Status__c"
+    },
+    {
+      "FIELD_NAME": "PTO_Submitted_Date__c",
+      "FIELD_VALUE": "2022-01-14 00:00:00",
+      "CUSTOM_FIELD_ID": "PTO_Submitted_Date__c"
+    },
+    {
+      "FIELD_NAME": "Push_to_Steady__c",
+      "FIELD_VALUE": true,
+      "CUSTOM_FIELD_ID": "Push_to_Steady__c"
+    },
+    {
+      "FIELD_NAME": "Re_Inspection_Date__c",
+      "FIELD_VALUE": "2023-09-16 00:00:00",
+      "CUSTOM_FIELD_ID": "Re_Inspection_Date__c"
+    },
+    {
+      "FIELD_NAME": "Region__c",
+      "FIELD_VALUE": "Needs Review",
+      "CUSTOM_FIELD_ID": "Region__c"
+    },
+    {
+      "FIELD_NAME": "ReRoof_Bid_Requested_Date__c",
+      "FIELD_VALUE": "2023-06-15 00:00:00",
+      "CUSTOM_FIELD_ID": "ReRoof_Bid_Requested_Date__c"
+    },
+    {
+      "FIELD_NAME": "ReRoof_Complete_Date__c",
+      "FIELD_VALUE": "2023-10-27 00:00:00",
+      "CUSTOM_FIELD_ID": "ReRoof_Complete_Date__c"
+    },
+    {
+      "FIELD_NAME": "ReRoof_Cost__c",
+      "FIELD_VALUE": 1.0,
+      "CUSTOM_FIELD_ID": "ReRoof_Cost__c"
+    },
+    {
+      "FIELD_NAME": "ReRoof_Notes__c",
+      "FIELD_VALUE": "PER OM>>> Reroof Required Reason: Fragile Shingles;Underlayment Needs Replacement;Plywood Needs Replacement DO IT66666..",
+      "CUSTOM_FIELD_ID": "ReRoof_Notes__c"
+    },
+    {
+      "FIELD_NAME": "Reroof_Paid_By__c",
+      "FIELD_VALUE": "Customer",
+      "CUSTOM_FIELD_ID": "Reroof_Paid_By__c"
+    },
+    {
+      "FIELD_NAME": "ReRoof_Required__c",
+      "FIELD_VALUE": "Yes- Not Eligible for Roof Waiver",
+      "CUSTOM_FIELD_ID": "ReRoof_Required__c"
+    },
+    {
+      "FIELD_NAME": "Reroof_Status___c",
+      "FIELD_VALUE": "ReRoof Complete",
+      "CUSTOM_FIELD_ID": "Reroof_Status___c"
+    },
+    {
+      "FIELD_NAME": "Retention_Team_Member__c",
+      "FIELD_VALUE": 29796067,
+      "CUSTOM_FIELD_ID": "Retention_Team_Member__c"
+    },
+    {
+      "FIELD_NAME": "Roof_Tilt__c",
+      "FIELD_VALUE": 35.0,
+      "CUSTOM_FIELD_ID": "Roof_Tilt__c"
+    },
+    {
+      "FIELD_NAME": "Roof_Type__c",
+      "FIELD_VALUE": "Rolled Comp",
+      "CUSTOM_FIELD_ID": "Roof_Type__c"
+    },
+    {
+      "FIELD_NAME": "Roof_Waiver_Signed__c",
+      "FIELD_VALUE": "2023-10-20 00:00:00",
+      "CUSTOM_FIELD_ID": "Roof_Waiver_Signed__c"
+    },
+    {
+      "FIELD_NAME": "Roofing_Agreement_Sent_to_Customer__c",
+      "FIELD_VALUE": "2023-09-20 00:00:00",
+      "CUSTOM_FIELD_ID": "Roofing_Agreement_Sent_to_Customer__c"
+    },
+    {
+      "FIELD_NAME": "Roofing_Company__c",
+      "FIELD_VALUE": 150839828,
+      "CUSTOM_FIELD_ID": "Roofing_Company__c"
+    },
+    {
+      "FIELD_NAME": "Rough_Inspection_Required__c",
+      "FIELD_VALUE": "No",
+      "CUSTOM_FIELD_ID": "Rough_Inspection_Required__c"
+    },
+    {
+      "FIELD_NAME": "Sales_Adders__c",
+      "FIELD_VALUE": "HOA Support;Municipalities;On-Site Cancelation;SE Inverter Warranty Extension",
+      "CUSTOM_FIELD_ID": "Sales_Adders__c"
+    },
+    {
+      "FIELD_NAME": "Sales_Company__c",
+      "FIELD_VALUE": 146899150,
+      "CUSTOM_FIELD_ID": "Sales_Company__c"
+    },
+    {
+      "FIELD_NAME": "Sales_Follow_Up_Notes__c",
+      "FIELD_VALUE": "MP 12/05 - This is another test. \nJD 11/27/23 Follow Up - This is another test note on Nov 27. \nJD 11/27/23 CXA Touch 1 - This is another test \nJD 11/20/23 Unresponsive Check - This is another test \nJD 11/16/23 CXA Unresponsive - This is another test \nJD 11/16/23 CXA Touch 3 - This is another test \n------------------------\n05/27/2023 - https://xw5tbxif.insightlyservice.com/en-US/Tickets/Ticket/223156\n------------------------\nhttps://xw5tbxif.insightlyservice.com/en-US/Tickets/Ticket/199644\n-------------------------------\n04/26/2023 - hello world testing",
+      "CUSTOM_FIELD_ID": "Sales_Follow_Up_Notes__c"
+    },
+    {
+      "FIELD_NAME": "Sales_Rep_1__c",
+      "FIELD_VALUE": 14458407,
+      "CUSTOM_FIELD_ID": "Sales_Rep_1__c"
+    },
+    {
+      "FIELD_NAME": "Sales_Rep_1_Email__c",
+      "FIELD_VALUE": "dean@betterearth.solar",
+      "CUSTOM_FIELD_ID": "Sales_Rep_1_Email__c"
+    },
+    {
+      "FIELD_NAME": "Sales_Rep_1_Name__c",
+      "FIELD_VALUE": "Dean Sharabi",
+      "CUSTOM_FIELD_ID": "Sales_Rep_1_Name__c"
+    },
+    {
+      "FIELD_NAME": "Sales_Rep_1_Phone__c",
+      "FIELD_VALUE": "13522624432",
+      "CUSTOM_FIELD_ID": "Sales_Rep_1_Phone__c"
+    },
+    {
+      "FIELD_NAME": "Sales_Rep_2__c",
+      "FIELD_VALUE": 21916830,
+      "CUSTOM_FIELD_ID": "Sales_Rep_2__c"
+    },
+    {
+      "FIELD_NAME": "Sales_Requested_ReRoof__c",
+      "FIELD_VALUE": "No",
+      "CUSTOM_FIELD_ID": "Sales_Requested_ReRoof__c"
+    },
+    {
+      "FIELD_NAME": "Scheduling_Priority__c",
+      "FIELD_VALUE": "Not ready to schedule",
+      "CUSTOM_FIELD_ID": "Scheduling_Priority__c"
+    },
+    {
+      "FIELD_NAME": "Secondary_Contact__c",
+      "FIELD_VALUE": 335591397,
+      "CUSTOM_FIELD_ID": "Secondary_Contact__c"
+    },
+    {
+      "FIELD_NAME": "Send_SOW_Date__c",
+      "FIELD_VALUE": "2023-11-12 00:00:00",
+      "CUSTOM_FIELD_ID": "Send_SOW_Date__c"
+    },
+    {
+      "FIELD_NAME": "Service_Call_1__c",
+      "FIELD_VALUE": 11503934,
+      "CUSTOM_FIELD_ID": "Service_Call_1__c"
+    },
+    {
+      "FIELD_NAME": "Service_Call_2__c",
+      "FIELD_VALUE": 15636103,
+      "CUSTOM_FIELD_ID": "Service_Call_2__c"
+    },
+    {
+      "FIELD_NAME": "Service_Call_3__c",
+      "FIELD_VALUE": 15636103,
+      "CUSTOM_FIELD_ID": "Service_Call_3__c"
+    },
+    {
+      "FIELD_NAME": "Service_Call_4__c",
+      "FIELD_VALUE": 15636163,
+      "CUSTOM_FIELD_ID": "Service_Call_4__c"
+    },
+    {
+      "FIELD_NAME": "Setter__c",
+      "FIELD_VALUE": 27899340,
+      "CUSTOM_FIELD_ID": "Setter__c"
+    },
+    {
+      "FIELD_NAME": "Site_Condition_Concerns_1__c",
+      "FIELD_VALUE": "Potential UnPermitted Structures (deck-shed-carport-etc.)",
+      "CUSTOM_FIELD_ID": "Site_Condition_Concerns_1__c"
+    },
+    {
+      "FIELD_NAME": "Site_Survey_Complete_Date__c",
+      "FIELD_VALUE": "2023-09-19 00:00:00",
+      "CUSTOM_FIELD_ID": "Site_Survey_Complete_Date__c"
+    },
+    {
+      "FIELD_NAME": "Site_Survey_Details__c",
+      "FIELD_VALUE": 19586136,
+      "CUSTOM_FIELD_ID": "Site_Survey_Details__c"
+    },
+    {
+      "FIELD_NAME": "Site_Survey_Status__c",
+      "FIELD_VALUE": "Additional Survey Complete",
+      "CUSTOM_FIELD_ID": "Site_Survey_Status__c"
+    },
+    {
+      "FIELD_NAME": "SLA_Record__c",
+      "FIELD_VALUE": 36375847,
+      "CUSTOM_FIELD_ID": "SLA_Record__c"
+    },
+    {
+      "FIELD_NAME": "Solar_Permit_Approved__c",
+      "FIELD_VALUE": "2023-09-07 00:00:00",
+      "CUSTOM_FIELD_ID": "Solar_Permit_Approved__c"
+    },
+    {
+      "FIELD_NAME": "Solar_Permit_Delivered__c",
+      "FIELD_VALUE": "2023-11-11 00:00:00",
+      "CUSTOM_FIELD_ID": "Solar_Permit_Delivered__c"
+    },
+    {
+      "FIELD_NAME": "Solar_Permit_ETA__c",
+      "FIELD_VALUE": "2022-12-08 00:00:00",
+      "CUSTOM_FIELD_ID": "Solar_Permit_ETA__c"
+    },
+    {
+      "FIELD_NAME": "Solar_Permit_Revision_Delivered__c",
+      "FIELD_VALUE": "2023-09-07 00:00:00",
+      "CUSTOM_FIELD_ID": "Solar_Permit_Revision_Delivered__c"
+    },
+    {
+      "FIELD_NAME": "Solar_Permit_Revision_Required__c",
+      "FIELD_VALUE": "2023-05-10 00:00:00",
+      "CUSTOM_FIELD_ID": "Solar_Permit_Revision_Required__c"
+    },
+    {
+      "FIELD_NAME": "Solar_Permit_Revison_Approved__c",
+      "FIELD_VALUE": "2023-09-07 00:00:00",
+      "CUSTOM_FIELD_ID": "Solar_Permit_Revison_Approved__c"
+    },
+    {
+      "FIELD_NAME": "Solar_Permit_Status__c",
+      "FIELD_VALUE": "Solar Permit Delivered",
+      "CUSTOM_FIELD_ID": "Solar_Permit_Status__c"
+    },
+    {
+      "FIELD_NAME": "Solar_Permit_Submitted__c",
+      "FIELD_VALUE": "2023-06-01 00:00:00",
+      "CUSTOM_FIELD_ID": "Solar_Permit_Submitted__c"
+    },
+    {
+      "FIELD_NAME": "Sold_Finance_Type__c",
+      "FIELD_VALUE": "Lease",
+      "CUSTOM_FIELD_ID": "Sold_Finance_Type__c"
+    },
+    {
+      "FIELD_NAME": "SOW_Action___c",
+      "FIELD_VALUE": "SOW Complete, Sent to Rep for Approval",
+      "CUSTOM_FIELD_ID": "SOW_Action___c"
+    },
+    {
+      "FIELD_NAME": "SOW_Approve_Date__c",
+      "FIELD_VALUE": "2023-11-04 00:00:00",
+      "CUSTOM_FIELD_ID": "SOW_Approve_Date__c"
+    },
+    {
+      "FIELD_NAME": "SOW_Change_Order_Type__c",
+      "FIELD_VALUE": "Finance Change Order;IA Change Order",
+      "CUSTOM_FIELD_ID": "SOW_Change_Order_Type__c"
+    },
+    {
+      "FIELD_NAME": "SOW_Requirements__c",
+      "FIELD_VALUE": "Yes",
+      "CUSTOM_FIELD_ID": "SOW_Requirements__c"
+    },
+    {
+      "FIELD_NAME": "SOW_Start_Date__c",
+      "FIELD_VALUE": "2023-04-11 00:00:00",
+      "CUSTOM_FIELD_ID": "SOW_Start_Date__c"
+    },
+    {
+      "FIELD_NAME": "SOW_Status__c",
+      "FIELD_VALUE": "SOW Approved",
+      "CUSTOM_FIELD_ID": "SOW_Status__c"
+    },
+    {
+      "FIELD_NAME": "Special_Permitting_Doc_Complete__c",
+      "FIELD_VALUE": "2022-05-12 00:00:00",
+      "CUSTOM_FIELD_ID": "Special_Permitting_Doc_Complete__c"
+    },
+    {
+      "FIELD_NAME": "Stage_Name__c",
+      "FIELD_VALUE": 3667670,
+      "CUSTOM_FIELD_ID": "Stage_Name__c"
+    },
+    {
+      "FIELD_NAME": "Storage_Option__c",
+      "FIELD_VALUE": "1 Franklin Batt (Partial Backup)",
+      "CUSTOM_FIELD_ID": "Storage_Option__c"
+    },
+    {
+      "FIELD_NAME": "Strictness_of_MPU__c",
+      "FIELD_VALUE": "Must Occur- No Alternative",
+      "CUSTOM_FIELD_ID": "Strictness_of_MPU__c"
+    },
+    {
+      "FIELD_NAME": "SubmissionIssuance_Type_1__c",
+      "FIELD_VALUE": "Submit/Pickup in Person",
+      "CUSTOM_FIELD_ID": "SubmissionIssuance_Type_1__c"
+    },
+    {
+      "FIELD_NAME": "Suggested_Inverter_Model__c",
+      "FIELD_VALUE": "3000H-US",
+      "CUSTOM_FIELD_ID": "Suggested_Inverter_Model__c"
+    },
+    {
+      "FIELD_NAME": "Survey_Cancelled__c",
+      "FIELD_VALUE": "2023-06-26 00:00:00",
+      "CUSTOM_FIELD_ID": "Survey_Cancelled__c"
+    },
+    {
+      "FIELD_NAME": "Survey_Date__c",
+      "FIELD_VALUE": "2023-07-31 07:00:00",
+      "CUSTOM_FIELD_ID": "Survey_Date__c"
+    },
+    {
+      "FIELD_NAME": "Survey_Scheduling_Link__c",
+      "FIELD_VALUE": 37845632,
+      "CUSTOM_FIELD_ID": "Survey_Scheduling_Link__c"
+    },
+    {
+      "FIELD_NAME": "Survey_Scheduling_Notes__c",
+      "FIELD_VALUE": "HOMEOWNER MUST BE HOME FOR SURVEY!!!!!\n\n\"Survey was not able to begin- full survey needed\"",
+      "CUSTOM_FIELD_ID": "Survey_Scheduling_Notes__c"
+    },
+    {
+      "FIELD_NAME": "SX_Notes__c",
+      "FIELD_VALUE": "SX-O-PERMIT_SUBMIT: https://xw5tbxif.insightlyservice.com/en-US/Tickets/Ticket/310846\n__________________________\nSX-O-DESIGN: https://xw5tbxif.insightlyservice.com/en-US/Tickets/Ticket/302766\n__________________________",
+      "CUSTOM_FIELD_ID": "SX_Notes__c"
+    },
+    {
+      "FIELD_NAME": "System_Acti_Notes__c",
+      "FIELD_VALUE": "..",
+      "CUSTOM_FIELD_ID": "System_Acti_Notes__c"
+    },
+    {
+      "FIELD_NAME": "System_Activation_Notes__c",
+      "FIELD_VALUE": ".khkjhkjhkjh",
+      "CUSTOM_FIELD_ID": "System_Activation_Notes__c"
+    },
+    {
+      "FIELD_NAME": "System_Activation_Status__c",
+      "FIELD_VALUE": "System Activation Pending",
+      "CUSTOM_FIELD_ID": "System_Activation_Status__c"
+    },
+    {
+      "FIELD_NAME": "System_Mapping_Start_Date__c",
+      "FIELD_VALUE": "2023-08-16 00:00:00",
+      "CUSTOM_FIELD_ID": "System_Mapping_Start_Date__c"
+    },
+    {
+      "FIELD_NAME": "System_Mapping_Status__c",
+      "FIELD_VALUE": "System Mapping Delay",
+      "CUSTOM_FIELD_ID": "System_Mapping_Status__c"
+    },
+    {
+      "FIELD_NAME": "System_Size__c",
+      "FIELD_VALUE": 8100.0,
+      "CUSTOM_FIELD_ID": "System_Size__c"
+    },
+    {
+      "FIELD_NAME": "TEST_PROJECT__c",
+      "FIELD_VALUE": true,
+      "CUSTOM_FIELD_ID": "TEST_PROJECT__c"
+    },
+    {
+      "FIELD_NAME": "Text_Notifications__c",
+      "FIELD_VALUE": "Survey Complete;SOW Sent;Updated SOW Sent;Permit Submitted;Permit Approved;Install Scheduled;ReInspection Scheduled;Inspection Passed;System Activated;Finance Change Order Signed;SOW Approved;SOW Approved",
+      "CUSTOM_FIELD_ID": "Text_Notifications__c"
+    },
+    {
+      "FIELD_NAME": "Text_to_Push_to_Ticket__c",
+      "FIELD_VALUE": "TEST TEST TEST - Submit permit please - TEST TEST TEST",
+      "CUSTOM_FIELD_ID": "Text_to_Push_to_Ticket__c"
+    },
+    {
+      "FIELD_NAME": "Ticket_Submitter__c",
+      "FIELD_VALUE": 17647128,
+      "CUSTOM_FIELD_ID": "Ticket_Submitter__c"
+    },
+    {
+      "FIELD_NAME": "Tilt_Up_Present__c",
+      "FIELD_VALUE": "No",
+      "CUSTOM_FIELD_ID": "Tilt_Up_Present__c"
+    },
+    {
+      "FIELD_NAME": "Todays_Date__c",
+      "FIELD_VALUE": "2023-12-05 07:42:50",
+      "CUSTOM_FIELD_ID": "Todays_Date__c"
+    },
+    {
+      "FIELD_NAME": "Total__of_Arrays__c",
+      "FIELD_VALUE": 6.0,
+      "CUSTOM_FIELD_ID": "Total__of_Arrays__c"
+    },
+    {
+      "FIELD_NAME": "UBILL_Uploaded__c",
+      "FIELD_VALUE": "2023-03-17 00:00:00",
+      "CUSTOM_FIELD_ID": "UBILL_Uploaded__c"
+    },
+    {
+      "FIELD_NAME": "Utility_Account_Number__c",
+      "FIELD_VALUE": "123456",
+      "CUSTOM_FIELD_ID": "Utility_Account_Number__c"
+    },
+    {
+      "FIELD_NAME": "Utility_Bill_Approval___c",
+      "FIELD_VALUE": "Complete",
+      "CUSTOM_FIELD_ID": "Utility_Bill_Approval___c"
+    },
+    {
+      "FIELD_NAME": "Utility_Bill_Approved__c",
+      "FIELD_VALUE": "2023-02-28 00:00:00",
+      "CUSTOM_FIELD_ID": "Utility_Bill_Approved__c"
+    },
+    {
+      "FIELD_NAME": "Utility_Bill_Issued_Date__c",
+      "FIELD_VALUE": "2021-04-14 00:00:00",
+      "CUSTOM_FIELD_ID": "Utility_Bill_Issued_Date__c"
+    },
+    {
+      "FIELD_NAME": "Utility_Meter_Number__c",
+      "FIELD_VALUE": "12356788",
+      "CUSTOM_FIELD_ID": "Utility_Meter_Number__c"
+    },
+    {
+      "FIELD_NAME": "Utility_Provider__c",
+      "FIELD_VALUE": 18907781,
+      "CUSTOM_FIELD_ID": "Utility_Provider__c"
+    },
+    {
+      "FIELD_NAME": "Utility_Rate_Schedule___c",
+      "FIELD_VALUE": "lkjlkj",
+      "CUSTOM_FIELD_ID": "Utility_Rate_Schedule___c"
+    },
+    {
+      "FIELD_NAME": "Warehouse_Zip_Code_Test__c",
+      "FIELD_VALUE": "Needs Review",
+      "CUSTOM_FIELD_ID": "Warehouse_Zip_Code_Test__c"
+    },
+    {
+      "FIELD_NAME": "Warranty_Details__c",
+      "FIELD_VALUE": 28124805,
+      "CUSTOM_FIELD_ID": "Warranty_Details__c"
+    }
+  ],
+  "TAGS": [
+    {
+      "TAG_NAME": "[\"ActionCompletedBackInProgress\"]"
+    }
+  ],
+  "LINKS": [
+    {
+      "DETAILS": null,
+      "ROLE": null,
+      "LINK_ID": 240993846,
+      "OBJECT_NAME": "Project",
+      "OBJECT_ID": 12449748,
+      "LINK_OBJECT_NAME": "Contact",
+      "LINK_OBJECT_ID": 322533482
+    }
+  ],
+  "LINKED_EMAIL_ADDRESS": "nenad.matic-P12449748-50V1AN1@mailbox.insight.ly"
+}
